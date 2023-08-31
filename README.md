@@ -27,8 +27,8 @@ To run the Movie App locally, follow these steps:
 1. On the main page, browse different activities in the home page.
 2. Click on a activty card to view it's details, including title, description, view rating and also give rating and view activity price.
 
-- This is a demo for the Application
-https://github.com/OmarWarda/Flutter-Travel-App/assets/111141647/6ead5835-3165-4f9a-aeaf-0a0d36647412
+- This is a demo for the Application:
+- https://github.com/OmarWarda/Flutter-Travel-App/assets/111141647/6ead5835-3165-4f9a-aeaf-0a0d36647412
 
 
 
